@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Welcome 👋
+The name's Elias Tran aka Trần Đình Phúc (if you fancy yourself some Vietnamese)
 <!--
 **wangshu24/wangshu24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning Java :hourglass_flowing_sand:
+🤔 I’m looking for new position in a product company, in Ontario, Canada :mag:
