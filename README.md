@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Java :hourglass_flowing_sand:
+🌱 I’m currently learning Golang : :hourglass_flowing_sand:
 🤔 I’m looking for new position in a product company, in Ontario, Canada :mag:
